@@ -32,7 +32,7 @@
 ### 📊 Leetcode Stats
 
 <div align="center">
-  <a href="https://leetcode.com/DCdWlYs21g">
-    <img src="https://leetcode-stats.vercel.app/api?username=DCdWlYs21g&theme=Dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/thehando0714">
+    <img src="https://leetcode-stats.vercel.app/api?username=thehando0714&theme=Dark" alt="LeetCode Stats" />
   </a>
 </div>
